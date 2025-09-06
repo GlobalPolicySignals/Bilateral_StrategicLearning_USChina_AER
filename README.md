@@ -7,6 +7,13 @@ Oualid EL OUARDI
 
 Submission status: “Submitted to the American Economic Review (AER), September 2025.”
 
+# Bilateral Strategic Learning: US-China (AER Submission)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17069596.svg)](https://doi.org/10.5281/zenodo.17069596)
+
+This repository contains the full replication package for the working paper submitted to the American Economic Review.
+
+
 Description of the replication package : 
 
 Folder structure
