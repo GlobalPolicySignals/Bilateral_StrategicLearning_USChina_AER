@@ -1,5 +1,5 @@
-# Bilateral_StrategicLearning_USChina_QJE
-This repository contains the full replication package for the above working paper. It includes all raw data, processed panels, scripts, and visualizations used in the analysis. The study introduces a novel framework for bilateral strategic learning (BLSI) using a natural experiment between the same-leader rivals, Trump and Xi. ( EL OUARDI  WP Submitted to QJE)
+# Bilateral_StrategicLearning_USChina_AER
+This repository contains the full replication package for the above working paper. It includes all raw data, processed panels, scripts, and visualizations used in the analysis. The study introduces a novel framework for bilateral strategic learning (BLSI) using a natural experiment between the same-leader rivals, Trump and Xi. ( EL OUARDI  WP Submitted to AER)
 
 
 Strategic Learning between Adversarial Leaders in Bilateral Economic Conflict
@@ -7,7 +7,7 @@ Evidence from the Trump -Xi Natural Experiment
 Conditional Reciprocity and Behavioral Synchronization in US-China Trade Wars
 
 Oualid EL OUARDI 
-Submission status: “Submitted to the Quarterly Journal of Economics (QJE), September 2025.”
+Submission status: “Submitted to the American Economic Review (AER), September 2025.”
 
 Description of the replication package : 
 
@@ -23,8 +23,8 @@ Contact: oualid.elouardi@globalpolicysignals.com
 *Strategic Learning between Adversarial Leaders in Bilateral Economic Conflict*  
 *Evidence from the Trump–Xi Natural Experiment*  
 *Conditional Reciprocity and Behavioral Synchronization in US–China Trade Wars*  
-**Working Paper 2025-4, September**  
-Submitted to the *Quarterly Journal of Economics (QJE)*
+**Working Paper 2025-6, September**  
+Submitted to the *American Economic Review (AER)*
 
 ---
 
@@ -36,7 +36,7 @@ This repository contains the full replication package for the above working pape
 
 ## Repository Structure
 
-Bilateral_StrategicLearning_USChina_QJE 
+Bilateral_StrategicLearning_USChina_AER 
 │ README.md 
 │ READ.Me.docx
 │
