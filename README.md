@@ -21,7 +21,7 @@ Contact: oualid.elouardi@globalpolicysignals.com
 *Strategic Learning between Adversarial Leaders in Bilateral Economic Conflict*  
 *Evidence from the Trump–Xi Natural Experiment*  
 *Conditional Reciprocity and Behavioral Synchronization in US–China Trade Wars*  
-**Working Paper 2025-4, September**  
+**Working Paper 2025-v1, September**  
 Submitted to the *Review of International Political Economy (RIPE)*
 
 ---
