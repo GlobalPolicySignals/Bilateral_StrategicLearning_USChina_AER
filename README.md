@@ -5,14 +5,7 @@ Conditional Reciprocity and Behavioral Synchronization in US-China Trade Wars
 
 Oualid EL OUARDI 
 
-Submission status: “Submitted to the American Economic Review (AER), September 2025.”
-
-# Bilateral Strategic Learning: US-China (AER Submission)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17069596.svg)](https://doi.org/10.5281/zenodo.17069596)
-
-This repository contains the full replication package for the working paper submitted to the American Economic Review.
-
+Submission status: “Submitted to RIPE, September 2025.”
 
 Description of the replication package : 
 
@@ -29,7 +22,7 @@ Contact: oualid.elouardi@globalpolicysignals.com
 *Evidence from the Trump–Xi Natural Experiment*  
 *Conditional Reciprocity and Behavioral Synchronization in US–China Trade Wars*  
 **Working Paper 2025-4, September**  
-Submitted to the *American Economic Review (AER)*
+Submitted to the *Review of International Political Economy (RIPE)*
 
 ---
 
@@ -41,7 +34,7 @@ This repository contains the full replication package for the above working pape
 
 ## Repository Structure
 
-Bilateral_StrategicLearning_USChina_AER 
+Bilateral_StrategicLearning_USChina_RIPE 
 │ README.md 
 │ READ.Me.docx
 │
@@ -167,4 +160,4 @@ For questions, speaking invitations, or advisory inquiries:
 This replication package is shared for academic transparency and reproducibility.  
 If citing this repository, please use:  
 **Oualid EL OUARDI (2025). Strategic Learning between Adversarial Leaders in Bilateral Economic Conflict. Replication package available at:**  
-[https://github.com/globalpolicysignals/Bilateral_StrategicLearning_USChina_AER](https://github.com/globalpolicysignals/Bilateral_StrategicLearning_USChina_AER)
+[https://github.com/globalpolicysignals/Bilateral_StrategicLearning_USChina](https://github.com/globalpolicysignals/Bilateral_StrategicLearning_USChina)
